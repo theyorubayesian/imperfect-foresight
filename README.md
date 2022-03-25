@@ -20,4 +20,5 @@ You will need your Kaggle API in order for this command to work.
 Two models were investigated in the modelling notebook:
 - Logistic Regression
 - Decision Tree Classifier
+
 No extensive hyperparameter tuning was performed on either model. Trial runs were logged to this Weights & Biases project: [Imperfect Foresight](https://wandb.ai/theyorubayesian/next-event-prediction/reports/Imperfect-Foresight--VmlldzoxNzQxMTgw)
